@@ -1,5 +1,7 @@
 # SecureNFT - Dissertation Version
-The original NFT smart contract I developed for my final year Computer Science dissertation: "Mitigating Security Risks in NFT Smart Contracts". It is a partial implementation to demonstrate common security issues and their mitigation strategies in NFT contracts.
+**This contract is an older version that is kept for reference and comparison.**
+The original NFT smart contract I developed for my final year Computer Science dissertation: "Mitigating Security Risks in NFT Smart Contracts". 
+It is a partial implementation to demonstrate common security issues and their mitigation strategies in NFT contracts.
 
 ## Overview
 - ERC-721 NFT contract built with OpenZeppelin
@@ -19,5 +21,5 @@ The original NFT smart contract I developed for my final year Computer Science d
 - **Metadata freezing:** Prevents updates to frozen tokens
 - **URI Uniqueness:** Blocks duplicate metadata from being reused
 
-
+**New Version of Contract: [SecureNFT-v2](https://github.com/0nadia/SecureNFT-v2)**
 
